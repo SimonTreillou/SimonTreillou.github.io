@@ -52,8 +52,8 @@ interests:
 education:
   - area: PhD Coastal oceanography
     institution: Université de Toulouse, France
-    date_start: October 2021
-    date_end: November 2024
+    date_start: 2021-10-01
+    date_end: 2024-11-27
     summary: |
       "Surfzone eddies and undertow vertical shear effects on tracer dispersion: a 3D wave-resolving model approach".  Supervised by [Patrick Marchesiello](https://www.legos.omp.eu/author/patrick-marchesiello/).
     button:
@@ -61,8 +61,8 @@ education:
       url: 'https://theses.fr/s296274'
   - area: MEng Applied mathematics
     institution: INSA Toulouse, France
-    date_start: 2016
-    date_end: 2021
+    date_start: 2016-09-01
+    date_end: 2021-09-01
     summary: |
       
 work:
@@ -72,7 +72,7 @@ work:
     company_logo: ''
     date_start: 2021-02-20
     date_end: ''
-    summary: |2-
+    summary: |-
       Responsibilities include:
 
 # Skills
