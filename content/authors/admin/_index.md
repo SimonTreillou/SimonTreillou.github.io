@@ -49,7 +49,10 @@ profiles:
     url: https://www.researchgate.net/profile/Simon_Treillou?ev=hdr_xprf
 
 interests:
-  - 
+  - Physical oceanography
+  - Numerical modeling
+  - Wave-driven currents
+  - Fluid mechanics
 
 education:
   - area: PhD Physical oceanography
@@ -148,7 +151,7 @@ skills:
         percent: 100
         icon: chart-bar
       - name: Julia
-        description: 'Related: [Treillou et al. 2025](/publication/treillou-2025-a/)'
+        description: 'Related: [Treillou et al. 2025](/publication/vezy-2025/)'
         percent: 100
         icon: chart-bar
       - name: CROCO
