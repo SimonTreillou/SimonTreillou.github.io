@@ -66,6 +66,11 @@ education:
     date_start: 2016-09-01
     date_end: 2021-09-01
     summary: |
+  - area: Exchange semester
+    institution: PUCP Lima, Peru
+    date_start: 2019-01-01
+    date_end: 2019-07-01
+    summary: |
       
 work:
   - position: Postdoctoral researcher
@@ -75,7 +80,13 @@ work:
     date_start: 2021-02-20
     date_end: ''
     summary: |-
-      Responsibilities include:
+  - position: Ph.D. student
+    company_name: IRD/LEGOS
+    company_url: 'https://www.legos.omp.eu/author/simon-treillou/'
+    company_logo: ''
+    date_start: 2021-10-01
+    date_end: 2024-11-27
+    summary: |-
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -86,29 +97,41 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Matlab
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
+      - name: Julia
+        description: 'Related: [Treillou et al. 2025](/publication/treillou-2025-a/)'
+        percent: 100
+        icon: chart-bar
+      - name: CROCO
+        description: 'Related: e.g. [Treillou et al. 2024](/publication/treillou-2024-a/)'
+        percent: 100
+        icon: circle-stack
+      - name: SWASH
+        description: 'Related: work ongoing'
+        percent: 100
+        icon: circle-stack
+      - name: FUNWAVE-TVD
+        description: 'Related: [Treillou et al. 2025](/publication/treillou-2025-a/)'
+        percent: 100
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+      - name: Drawing
         description: ''
         percent: 100
+        icon: person-simple-walk
+      - name: Soccer & running
+        description: 'Allez violets'
+        percent: 100
         icon: cat
-      - name: Photography
+      - name: Electric guitar
         description: ''
-        percent: 80
+        percent: 100
         icon: camera
 
 languages:
