@@ -18,8 +18,13 @@ abstract: We build on the work of Mayer and Madsen (2000) and Larsen and Fuhrman
   and thus can preserve stratification on the innershelf under favorable heat and
   wind forcing conditions. This work is a necessary step before engaging in full 3D
   wave-resolving studies of surf--shelf exchange.
+  # Summary. An optional shortened abstract.
+summary: 
 tags:
 - Model:CROCO
 - Modeling:Turbulent_closure
 - Process:Waves
+projects:
+- phd-work
+- Improving-CROCO
 ---
