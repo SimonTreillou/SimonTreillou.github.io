@@ -57,7 +57,7 @@ education:
     date_start: 2021-10-01
     date_end: 2024-11-27
     summary: |
-      "Surfzone eddies and undertow vertical shear effects on tracer dispersion: a 3D wave-resolving model approach".  Supervised by [Patrick Marchesiello](https://www.legos.omp.eu/author/patrick-marchesiello/).
+      "Surfzone eddies and undertow vertical shear effects on tracer dispersion: a 3D wave-resolving model approach".  
     button:
       text: 'Read Thesis'
       url: 'https://theses.fr/s296274'
@@ -73,20 +73,66 @@ education:
     summary: |
       
 work:
-  - position: Postdoctoral researcher
+  - position: Postdoctoral Researcher
     company_name: Baker coastal lab at Stanford University
     company_url: 'https://nearshore.stanford.edu/'
     company_logo: ''
-    date_start: 2021-02-20
+    date_start: 2025-02-20
     date_end: ''
-    summary: |-
-  - position: Ph.D. student
+    summary: |
+      Supervised by [Christine M Baker](https://nearshore.stanford.edu/people/christine-baker).
+      Lectures given:
+        - Coastal processes (1)
+        - Ocean waves (1)
+  - position: Ph.D. Student
     company_name: IRD/LEGOS
     company_url: 'https://www.legos.omp.eu/author/simon-treillou/'
     company_logo: ''
     date_start: 2021-10-01
     date_end: 2024-11-27
-    summary: |-
+    summary: |
+      Supervised by [Patrick Marchesiello](https://www.legos.omp.eu/author/patrick-marchesiello/).
+  - position: Teaching Assistant
+    company_name: INSA Toulouse
+    company_url: 'https://www.legos.omp.eu'
+    company_logo: ''
+    date_start: 2021-10-01
+    date_end: 2025-01-10
+    summary: |
+      - 2021/2022: Mathematical modeling initiation
+      - 2024/2025: Dynamical systems
+  - position: Visiting Scholar
+    company_name: UCLA
+    company_url: 'https://www.ioes.ucla.edu/person/james-mcwilliams/'
+    company_logo: ''
+    date_start: 2022-06-01
+    date_end: 2022-08-01
+    summary: |
+      Invited to the [James McWilliams](https://www.ioes.ucla.edu/person/james-mcwilliams/) research group.
+  - position: Research Intern
+    company_name: AMAP/CIRAD 
+    company_url: 'https://amap.cirad.fr/en/'
+    company_logo: ''
+    date_start: 2021-02-01
+    date_end: 2021-07-01
+    summary: |
+      Supervised by [Rémi Vezy](https://www.remivezy.com/) and [Emilie Peynaud](https://fr.linkedin.com/in/emilie-peynaud-9263491a&ved=2ahUKEwi6lZn-5rSQAxWTnWoFHUYULoYQFnoECCIQAQ&usg=AOvVaw3IUokZPVjnla3yK4fxTAZw).
+  - position: Research Intern
+    company_name: LEGOS/IRD 
+    company_url: 'https://www.legos.omp.eu'
+    company_logo: ''
+    date_start: 2020-06-01
+    date_end: 2020-09-01
+    summary: |
+      Supervised by [Patrick Marchesiello](https://www.legos.omp.eu/author/patrick-marchesiello/).
+  - position: Intern
+    company_name: Merci René
+    company_url: 'https://merci-rene.com/'
+    company_logo: ''
+    date_start: 2019-01-01
+    date_end: 2019-03-01
+    summary: |
+      Internship in the Social and Circular Economy.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
