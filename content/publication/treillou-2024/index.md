@@ -10,4 +10,11 @@ publication_types:
 - paper-conference
 publication: '*XVIIIèmes Journées Nationales Génie Civil Génie Côtier, Anglet*'
 doi: 10.5150/jngcgc.2024.022
+tags:
+- Process:Mini-rips
+- Process:Rip_currents
+- Modeling:3D
+- Modeling:Wave_resolving
+- Model:CROCO
+- Obs:IB09
 ---

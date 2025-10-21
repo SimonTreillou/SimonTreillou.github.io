@@ -3,7 +3,7 @@ title: 'PlantBiophysics.Jl: A High-Performance, Modular Software for Prototyping
   Scaling Biophysical Models from Leaf to Canopy'
 authors:
 - Simon Treillou
-- Rémi (joint first author) Vezy
+- Rémi Vezy (joint first author)
 - Samuel Mackeown
 - Emilie Peynaud
 - Raphaël P A Perez
@@ -34,4 +34,8 @@ abstract: "Process-based biophysical models are essential for understanding and 
   models to be easily swapped, coupled, or extended, and by supporting simulations
   at scales ranging from single leaves to 3D plant canopies, PlantBiophysics.jl provides
   a robust, efficient, and transparent tool for plant ecophysiologists and modelers."
+tags:
+- Julia
+- Plant biophysics
+summary: This paper is issued from my internship within the AMAP laboratory.
 ---
