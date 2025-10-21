@@ -44,4 +44,5 @@ abstract: Abstract The nearshore region, which includes both the surf zone and t
   These new results on turbulence and mixing in the nearshore zone call for a reexamination
   of dispersion rates, critical environmental factors, and parameterizations in coarser
   models.
+featured: true
 ---
