@@ -161,7 +161,7 @@ skills:
       - name: CROCO
         description: 'Related: e.g. [Treillou et al. 2024](/publication/treillou-2024-a/)'
         percent: 100
-        icon: circle-stack
+        icon: "custom/croco"
       - name: SWASH
         description: 'Related: work ongoing'
         percent: 100
@@ -177,15 +177,15 @@ skills:
       - name: Drawing
         description: ''
         percent: 100
-        icon: person-simple-walk
+        icon: "custom/drawing"
       - name: Soccer & running
-        description: 'Allez violets'
+        description: 'Allez violets 😈'
         percent: 100
-        icon: cat
-      - name: Electric guitar
+        icon: "custom/futbol"
+      - name: Electric guitar and bass guitar
         description: ''
         percent: 100
-        icon: camera
+        icon: "custom/music"
 
 languages:
   - name: French
