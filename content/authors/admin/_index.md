@@ -165,11 +165,11 @@ skills:
       - name: SWASH
         description: 'Related: work ongoing'
         percent: 100
-        icon: circle-stack
+        icon: "custom/wave"
       - name: FUNWAVE-TVD
         description: 'Related: [Treillou et al. 2025](/publication/treillou-2025-a/)'
         percent: 100
-        icon: circle-stack
+        icon: "custom/wave"
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
