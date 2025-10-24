@@ -145,15 +145,19 @@ skills:
       - name: Python
         description: ''
         percent: 80
-        icon: "custom/python_perso"
+        icon: "custom/python-original"
       - name: Matlab
         description: ''
         percent: 100
-        icon: "matlab"
+        icon: "custom/matlab-original"
       - name: Julia
         description: 'Related: [Treillou et al. 2025](/publication/vezy-2025/)'
         percent: 100
-        icon: circle-stack
+        icon: "custom/julia-original"
+      - name: Fortran
+        description: 'Related: e.g. [Treillou et al. 2024](/publication/treillou-2024-a/)'
+        percent: 100
+        icon: "custom/fortran-original"
       - name: CROCO
         description: 'Related: e.g. [Treillou et al. 2024](/publication/treillou-2024-a/)'
         percent: 100
