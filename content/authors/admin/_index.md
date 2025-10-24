@@ -145,7 +145,7 @@ skills:
       - name: Python
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: "custom/python"
       - name: Matlab
         description: ''
         percent: 100
