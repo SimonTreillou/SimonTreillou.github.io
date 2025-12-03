@@ -47,6 +47,8 @@ profiles:
     url: https://orcid.org/0000-0002-5484-655X
   - icon: academicons/researchgate
     url: https://www.researchgate.net/profile/Simon_Treillou?ev=hdr_xprf
+  - icon: "custom/youtube"
+    url: https://www.youtube.com/@SimonTreillou
 
 interests:
   - Physical oceanography
