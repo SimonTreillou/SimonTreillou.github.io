@@ -10,8 +10,8 @@ first_name: Simon
 last_name: Treillou
 
 # Status emoji
-status:
-  icon: 
+status: 
+  icon: 🦆
 
 # Is this the primary user of the site?
 superuser: true
@@ -86,9 +86,9 @@ work:
     date_end: ''
     summary: |
       Supervised by [Christine M Baker](https://nearshore.stanford.edu/people/christine-baker).
-      Lectures given:
-        - Coastal processes (1)
-        - Ocean waves (1)
+#     Lectures given:
+#        - Coastal processes (1)
+#        - Ocean waves (1)
   - position: Ph.D. Student
     company_name: IRD/LEGOS
     company_url: 'https://www.legos.omp.eu/author/simon-treillou/'
@@ -153,15 +153,15 @@ skills:
         percent: 100
         icon: "custom/matlab-original"
       - name: Julia
-        description: 'Related: [Treillou et al. 2025](/publication/vezy-2025/)'
+        description: 'Related: [Treillou et al. 2025](/publication/2025c-treillou/)'
         percent: 100
         icon: "custom/julia-original"
       - name: Fortran
-        description: 'Related: e.g. [Treillou et al. 2024](/publication/treillou-2024-a/)'
+        description: 'Related: e.g. [Treillou et al. 2024](/publication/2024b-treillou/)'
         percent: 100
         icon: "custom/fortran-original"
       - name: CROCO
-        description: 'Related: e.g. [Treillou et al. 2024](/publication/treillou-2024-a/)'
+        description: 'Related: e.g. [Treillou et al. 2024](/publication/2024b-treillou/)'
         percent: 100
         icon: "custom/croco"
       - name: SWASH
@@ -169,7 +169,7 @@ skills:
         percent: 100
         icon: "custom/wave"
       - name: FUNWAVE-TVD
-        description: 'Related: [Treillou et al. 2025](/publication/treillou-2025-a/)'
+        description: 'Related: [Treillou et al. 2025](/publication/2025a-treillou/)'
         percent: 100
         icon: "custom/wave"
   - name: Hobbies
@@ -191,11 +191,11 @@ skills:
 
 languages:
   - name: French
-    percent: 100
+    description: Native
   - name: English
-    percent: 80
+    description: C2
   - name: Spanish
-    percent: 80
+    description: C2
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -213,4 +213,4 @@ languages:
 
 ## About Me
 
-I am a postdoctoral researcher at the Baker Coastal Lab at Stanford University, where I study coastal transport and mixing processes with a focus on wave-driven circulation dynamics. I got a Master's degree in Applied Mathematics from INSA Toulouse and recently completed my Ph.D. in Physical Oceanography at the University of Toulouse (France) in the LEGOS lab under the supervision of Patrick Marchesiello. My research uses advanced 3D wave-resolving models to improve the understanding of tracer dispersal in nearshore environments, addressing critical environmental challenges such as contaminant mitigation and ecosystem resilience. I hope to integrate numerical modeling, remote sensing, and experimental methods into my work to advance knowledge of coastal physics.
+I am a postdoctoral researcher at the Baker Coastal Lab at Stanford University, where I study coastal transport and mixing processes with a focus on wave-driven circulation dynamics. I got a Master's degree in Applied Mathematics from INSA Toulouse and recently completed my Ph.D. in Physical Oceanography at the University of Toulouse (France) in the LEGOS lab under the supervision of Patrick Marchesiello. My research uses advanced 3D wave-resolving models to improve the understanding of tracer dispersal in nearshore environments, addressing critical environmental challenges such as contaminant mitigation and ecosystem resilience. I hope to integrate numerical modeling, experimental methods and remote sensing into my work to advance knowledge of coastal physics.

@@ -1,0 +1,31 @@
+{{/* Hugo Blox: Languages (custom override) */}}
+
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+{{ $author := $block.content.username | default "admin" }}
+
+{{ $person_page_path := (printf "/authors/%s" $author) }}
+{{ $person_page := site.GetPage $person_page_path }}
+{{ if not $person_page }}
+  {{ errorf "Could not find an author page at `%s`." $person_page_path }}
+{{ end }}
+{{ $langs := $person_page.Params.languages }}
+
+<div class="flex flex-col items-center max-w-prose mx-auto gap-3 justify-center">
+
+  <div class="mb-6 text-3xl font-bold text-gray-900 dark:text-white">
+    {{ $block.content.title | markdownify | emojify }}
+  </div>
+
+  {{ with $block.content.text }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
+
+  <div class="flex items-center flex-col lg:flex-row gap-x-12 gap-y-4">
+    {{ range $langs }}
+    <div class="flex flex-col items-center gap-1">
+      <span class="text-2xl font-semibold text-gray-900 dark:text-white">{{ .name }}</span>
+      <span class="text-lg text-primary-600 dark:text-primary-300">{{ .description }}</span>
+    </div>
+    {{ end }}
+  </div>
+
+</div>
